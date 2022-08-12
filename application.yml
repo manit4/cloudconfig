@@ -1,4 +1,4 @@
 my:
-  greeting: welcome to Spring Cloud Config Server
+  greeting: welcome to Spring Cloud Config Server and I am updating
   list:
     values: Polo, Benz, Kelios, Creta
