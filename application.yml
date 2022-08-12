@@ -1,0 +1,4 @@
+my:
+  greeting: welcome to Spring Cloud Config Server
+  list:
+    values: Polo, Benz, Kelios, Creta
